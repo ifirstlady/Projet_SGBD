@@ -1,0 +1,18 @@
+[
+    {
+        "id": "admin",
+        "password": "admin"
+    },
+    {
+        "id": "dior",
+        "password": "passer123"
+    },
+    {
+        "id": "var",
+        "password": "var"
+    },
+    {
+        "id": "bineta",
+        "password": "passer"
+    }
+]
